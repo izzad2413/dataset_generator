@@ -1,0 +1,6 @@
+numpy
+pandas
+faker
+ipykernel
+openpyxl
+streamlit
