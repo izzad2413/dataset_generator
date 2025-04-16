@@ -1,4 +1,4 @@
-conda # file name = template.py
+# file name = template.py
 # function = to initiate project structure
 
 import os
